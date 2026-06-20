@@ -6,7 +6,7 @@ Classic brick-breaker for the ESP32 CYD (Cheap Yellow Display) — touch-slider 
 
 ## Screens
 
-| Gameplay | Splash |
+| Level 1 | Level 2 |
 |----------|--------|
 | ![Breakout](https://raw.githubusercontent.com/xXQuantumSmokeXx/xXCYD-BreakoutXx/v1.0.0/ScreenShots/Breakout.png) | ![Breakout2](https://raw.githubusercontent.com/xXQuantumSmokeXx/xXCYD-BreakoutXx/v1.0.0/ScreenShots/Breakout2.png) |
 
