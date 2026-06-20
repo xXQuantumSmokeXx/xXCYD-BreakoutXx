@@ -55,13 +55,6 @@ pio run --environment cyd_breakout_2usb
 
 Merged `.bin` files are auto-generated at the project root.
 
-## Screenshot
-
-Double-click `screenshot.py` or run:
-
-```bash
-python screenshot.py COMx screenshot.bmp
-```
 
 Device responds to `R` (ready check) and `S` (capture) over serial at 115200 baud.
 
