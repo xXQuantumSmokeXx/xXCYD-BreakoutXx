@@ -21,7 +21,7 @@ Classic brick-breaker for the ESP32 CYD (Cheap Yellow Display) — touch-slider 
 - Level progression with more rows and special gold/silver bricks
 - Persistent high score saved to NVS
 - Power button (top-right) — tap for deep sleep, touch screen to wake
-- Serial screenshot capture via RGB332 protocol (`screenshot.py` included)
+
 
 ## Setup
 
